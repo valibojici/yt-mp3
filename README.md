@@ -6,8 +6,10 @@ Dependencies:
 [youtubesearchpython](https://pypi.org/project/youtube-search-python/)
 
 Install them using:
+```
 pip install yt-dlp
 pip install youtube-search-python
+```
 
 Usage:
 
