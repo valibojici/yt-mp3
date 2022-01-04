@@ -13,4 +13,4 @@ pip install youtube-search-python
 
 Usage:
 
-python script.py "insert search terms here"
+`python script.py "insert search terms here"`
